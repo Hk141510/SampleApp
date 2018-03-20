@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="name_input">Input Name:</string>
+    <string name="owner_input">Input Owner:</string>
+</resources>
